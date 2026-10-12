@@ -39,3 +39,5 @@ npx expo start
 # 3. Para probar en la web:
 npx expo start --web
 ```
+
+📦 Archivo Ejecutable (APK): Debido a los límites de tamaño de GitHub (100MB), el ejecutable del proyecto se encuentra disponible para su descarga en el siguiente enlace: [https://drive.google.com/file/d/19NRILpDvzq8graJPR0aGWFbp_5Fmfv9-/view?usp=sharing].
